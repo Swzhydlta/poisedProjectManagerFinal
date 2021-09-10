@@ -1,7 +1,7 @@
 #Poised Project Management System
 
 #Description
-PoisedPMS is a project management system designed for the hypothetical structural engineering firm Poised. It was created to fulfil the brief for the final project of the Java module of the HyperionDev Software Development bootcamp I was enrolled in from June to September 2021. Using this system, Poised employees will be able to log, update, finalize, and generally keep track of all details about current, past, and future projects. The program is written in Java and handles data persistance by connecting to a local SQL server.
+PoisedPMS is a project management system designed for the hypothetical structural engineering firm Poised. It was created to fulfill the brief for the final project of the Java module taught in the HyperionDev Software Development bootcamp I was enrolled in from June to September 2021. Using this system, Poised employees will be able to log, update, finalize, and generally keep track of all details about current, past, and future projects. The program is written in Java and handles data persistance by connecting to a local SQL server.
 
 #Installation
 To use PoisedPMS, download the PoisedPMS, Person, and Project classes. Open a new project in your Java IDE, and place these classes in the .src file. Connect to an SQL database and run the main method in the PoisedPMS class. 
